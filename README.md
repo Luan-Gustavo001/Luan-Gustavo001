@@ -5,7 +5,7 @@ Eu sou o Luan graduado em Seguranã da Informação na FATEC Ourinhos e Especial
 - 🤝 Procuro colaborar em projetos para sistemas publicos.
 - 🧑‍🎓 Pretendo ainda cursar algo relacionando a desenvolvimento.
 
-(https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001&show_icons=true&theme=transparent)
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001&show_icons=true&theme=transparent)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001)
 
