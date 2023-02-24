@@ -3,6 +3,7 @@ Eu sou o Luan graduado em Seguranã da Informação na FATEC Ourinhos e Especial
 - 🔭 Atualmente, estou trabalhando na GEMMAP Sistemas.
 - 🌱 Atualmente estou aprendendo Java web, Spring Boot, REST API e pretendo continuar nessa carreia.
 - 🤝 Procuro colaborar em projetos para sistemas publicos.
+- 🧑‍🎓 Pretendo ainda cursar algo relacionando a desenvolvimento.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001)
  
