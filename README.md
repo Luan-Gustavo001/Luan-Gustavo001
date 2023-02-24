@@ -6,6 +6,12 @@ Eu sou o Luan graduado em Seguranã da Informação na FATEC Ourinhos e Especial
 - 🧑‍🎓 Pretendo ainda cursar algo relacionando a desenvolvimento.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001)
+
+<div>
+<a href="https://github.com/Luan-Gustavo001">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Gustavo001&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Luan-Gustavo001/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Luan-Gustavo001/)
