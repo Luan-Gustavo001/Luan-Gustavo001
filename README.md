@@ -7,11 +7,7 @@ Eu sou o Luan graduado em Seguranã da Informação na FATEC Ourinhos e Especial
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001&show_icons=true&theme=transparent)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001)
-
 <div>
-<a href="https://github.com/Luan-Gustavo001">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Gustavo001&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Gustavo001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
