@@ -1,7 +1,7 @@
 ### Olá 👋
 Eu sou o Luan graduado em Segurança da Informação na FATEC Ourinhos e Especialista em Redes de Computadores pela UTFPR - Cornélio Procópio.
 - 🔭 Atualmente, estou trabalhando na GEMMAP Sistemas.
-- 🌱 Atualmente estou aprendendo Java web, Spring Boot, REST API e pretendo continuar nessa carreia.
+- 🌱 Atualmente estou aprendendo Java web, Spring Boot, REST API e pretendo continuar nessa carreira.
 - 🤝 Procuro colaborar em projetos para sistemas publicos.
 - 🧑‍🎓 Pretendo ainda cursar algo relacionado a desenvolvimento.
 
