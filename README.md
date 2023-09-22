@@ -1,7 +1,7 @@
 ### Olá 👋
 Eu sou o Luan, sou graduado e pós graduado na area de infraestrutura de TI, mas estou estudando e trabalhando na area de desenvolvimento e gostando muito.
 - 🔭 Atualmente, sou programador java web.
-- 🌱 Atualmente estou trabalho/estudo sobre Java web, Spring Boot, REST API e pretendo continuar estudando sobre.
+- 🌱 Atualmente trabalho/estudo sobre Java web, Spring Boot, REST API e pretendo continuar estudando sobre.
 - 🤝 Procuro colaborar em projetos web.
 - 🧑‍🎓 Pretendo ainda continuar estudando sobre desenvolvimento.
 
